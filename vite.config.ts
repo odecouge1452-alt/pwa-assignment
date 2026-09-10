@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/your-repo-name/',  // <-- add this, replace with your actual repo name
+    base: '/pwa-assignment/',  
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
