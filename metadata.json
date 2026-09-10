@@ -1,0 +1,6 @@
+{
+  "name": "Offline Notes Lab",
+  "description": "A beginner-friendly offline-first notes PWA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
