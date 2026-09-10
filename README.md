@@ -48,6 +48,3 @@ Open the preview, install or inspect the manifest, switch Network to Offline, re
 6. Create a note in the form and click **Save locally**.
 7. Refresh the page while still offline: the newly created note persists because it is loaded from `localStorage`.
 8. Switch Network back to **Online**: the status indicator in the header updates immediately from `Offline` to `Online`.
-
-# pwa-assignment
-pwa assignment by caleb ode 
